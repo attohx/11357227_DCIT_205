@@ -35,19 +35,19 @@
       <!-- Left links -->
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" href="index.php">Home</a>
+          <a class="nav-link" href="index.php">Home <i class="fa-solid fa-house"></i></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="course_page.php">Courses</a>
+          <a class="nav-link" href="course_page.php">Courses <i class="fa-solid fa-book"></i></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="about_page.php">About</a>
+          <a class="nav-link" href="about_page.php">About <i class="fa-solid fa-question"></i></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="contact_page.php">Contact</a>
+          <a class="nav-link" href="contact_page.php">Contact <i class="fa-solid fa-envelope"></i></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="feed.php">Feed</a>
+          <a class="nav-link" href="feed.php">Feed <i class="fa-solid fa-rss"></i></a>
         </li>
         
       </ul>
