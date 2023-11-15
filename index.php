@@ -77,7 +77,7 @@
     </div>
     <div class="col-sm-3">
       <p>Campus Life & Events</p>
-      <a href="int_students.php">
+      <a href="campus_events.php">
         <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
       </a>
     </div>
