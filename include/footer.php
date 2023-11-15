@@ -46,4 +46,8 @@
     <a class="text-dark" href="index.php">D.C.I.T</a>
   </div>
   <!-- Copyright -->
+
+  <!-- JS Script -->
+
+  <script src="bootstrap/js/bootstrap.min.js"></script>
 </footer>

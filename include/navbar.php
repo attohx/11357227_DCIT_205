@@ -21,9 +21,9 @@
     <button
       class="navbar-toggler"
       type="button"
-      data-mdb-toggle="collapse"
-      data-mdb-target="#navbarButtonsExample"
-      aria-controls="navbarLeftAlignExample"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarButtonsExample"
+      aria-controls="navbarButtonsExample"
       aria-expanded="false"
       aria-label="Toggle navigation"
     >
