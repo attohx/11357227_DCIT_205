@@ -54,11 +54,13 @@
       <!-- Left links -->
 
       <div class="d-flex justify-content-end">
-        <button type="button" class="btn btn-primary me-3">
-          UG
-        </button>
+      <a
+          class="btn btn-light px-3"
+          href="https://sakai.ug.edu.gh/portal"
+          role="button"
+          ><i class="fa-solid fa-globe"></i></a>
         <a
-          class="btn btn-dark px-3"
+          class="btn btn-light px-3"
           href="https://github.com/attohx"
           role="button"
           ><i class="fa-brands fa-github-alt"></i></a>
