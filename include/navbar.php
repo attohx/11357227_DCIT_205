@@ -2,34 +2,10 @@
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
 
-<nav class="head-top">
-<!-- 
-    <div id="header">
-        <div class="container"></div>
-        <div class= "main-menu">
-            <div class="menu-align">
-                <div id="logomen">
-                    <a href="">Logo</a>
-                </div>
-                <nav id="nav-menucontainer">
-                    <ul class="nav-menu">
-                        <li><button class="loginbtn">Buy Forms</button></li>
-                        <li><a href="#">Feed</a></li>
-                        <li><a href="course_page.php">Courses</a></li>
-                        <li><a href="contact_page.php">Contact</a></li>
-                        <li><a href="about_page.php">About</a></li>
-                        <li><a href="index.php">Home</a></li>
-                        
-                    </ul>
-                </nav>
-            </div> 
-        </div>
-    </div> -->
 
-<!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <!-- Container wrapper -->
-  <div class="container ml-auto">
+  <div class="container">
     <!-- Navbar brand -->
     <a class="navbar-brand me-2 ml-auto" href="index.php"> Logo
       <img
@@ -83,10 +59,9 @@
         </button>
         <a
           class="btn btn-dark px-3"
-          href="https://github.com/attohx/dcitProj1"
+          href="https://github.com/attohx"
           role="button"
-          ><i class="fab fa-github"></i
-        ></a>
+          ><i class="fa-brands fa-github-alt"></i></a>
       </div>
     </div>
     <!-- Collapsible wrapper -->

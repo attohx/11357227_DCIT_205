@@ -19,7 +19,7 @@
 <div class="main-container">
 
 <section class="sect-gap">
-    <div class="container">
+    <div class="container2">
         <div class="popular-courses-section-align">
             <div class="popular-courses-menu-content">
                 <div class="title">
