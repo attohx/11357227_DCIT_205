@@ -2,6 +2,7 @@
 <!--css file-->
 <link rel="stylesheet" href="css/style.css">
 
+<div class="main-containerfoot" >
 <footer class="bg-light text-center text-lg-start">
   <!-- Grid container -->
   <div class="container p-4 pb-0">
@@ -51,3 +52,4 @@
 
   <script src="bootstrap/js/bootstrap.min.js"></script>
 </footer>
+</div>
