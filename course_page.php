@@ -67,7 +67,7 @@
     <div class="card mb-3">
       <div class="card-body">
         <div class="d-flex flex-column flex-lg-row">
-          <span class="avatar avatar-text rounded-3 me-4 bg-info mb-2">PM</span>
+          <span class="avatar avatar-text rounded-3 me-4 bg-info mb-2">MP.CS</span>
           <div class="row flex-fill">
             <div class="col-sm-5">
               <h4 class="h5">MPHIL. COMPUTER SCIENCE</h4>
@@ -87,7 +87,7 @@
     <div class="card mb-3">
       <div class="card-body">
         <div class="d-flex flex-column flex-lg-row">
-          <span class="avatar avatar-text rounded-3 me-4 bg-warning mb-2">BE</span>
+          <span class="avatar avatar-text rounded-3 me-4 bg-warning mb-2">MS.CS</span>
           <div class="row flex-fill">
             <div class="col-sm-5">
               <h4 class="h5">MSc. COMPUTER SCIENCE</h4>
@@ -103,148 +103,6 @@
         </div>
       </div>
     </div>
-
-    <div class="card mb-3">
-      <div class="card-body">
-        <div class="d-flex flex-column flex-lg-row">
-          <span class="avatar avatar-text rounded-3 me-4 bg-warning mb-2">BE</span>
-          <div class="row flex-fill">
-            <div class="col-sm-5">
-              <h4 class="h5">Course 5</h4>
-              <span class="badge bg-secondary">UNDERGRADUATE</span> <span class="badge bg-success">4YRS</span>
-            </div>
-            <div class="col-sm-4 py-2">
-              <span class="badge bg-secondary">GOLANG</span>
-              <span class="badge bg-secondary">SENIOR</span>
-              <span class="badge bg-secondary">ENGINEER</span>
-              <span class="badge bg-secondary">BACKEND</span>
-            </div>
-            <div class="col-sm-3 text-lg-end">
-              <a href="#" class="btn btn-primary stretched-link">Apply</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="card mb-3">
-      <div class="card-body">
-        <div class="d-flex flex-column flex-lg-row">
-          <span class="avatar avatar-text rounded-3 me-4 bg-warning mb-2">BE</span>
-          <div class="row flex-fill">
-            <div class="col-sm-5">
-              <h4 class="h5">Course 6</h4>
-              <span class="badge bg-secondary">UNDERGRADUATE</span> <span class="badge bg-success">4YRS</span>
-            </div>
-            <div class="col-sm-4 py-2">
-              <span class="badge bg-secondary">GOLANG</span>
-              <span class="badge bg-secondary">SENIOR</span>
-              <span class="badge bg-secondary">ENGINEER</span>
-              <span class="badge bg-secondary">BACKEND</span>
-            </div>
-            <div class="col-sm-3 text-lg-end">
-              <a href="#" class="btn btn-primary stretched-link">Apply</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="card mb-3">
-      <div class="card-body">
-        <div class="d-flex flex-column flex-lg-row">
-          <span class="avatar avatar-text rounded-3 me-4 bg-warning mb-2">BE</span>
-          <div class="row flex-fill">
-            <div class="col-sm-5">
-              <h4 class="h5">Course 7</h4>
-              <span class="badge bg-secondary">GRADUATE</span> <span class="badge bg-success">4YRS</span>
-            </div>
-            <div class="col-sm-4 py-2">
-              <span class="badge bg-secondary">GOLANG</span>
-              <span class="badge bg-secondary">SENIOR</span>
-              <span class="badge bg-secondary">ENGINEER</span>
-              <span class="badge bg-secondary">BACKEND</span>
-            </div>
-            <div class="col-sm-3 text-lg-end">
-              <a href="#" class="btn btn-primary stretched-link">Apply</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="card mb-3">
-      <div class="card-body">
-        <div class="d-flex flex-column flex-lg-row">
-          <span class="avatar avatar-text rounded-3 me-4 bg-warning mb-2">BE</span>
-          <div class="row flex-fill">
-            <div class="col-sm-5">
-              <h4 class="h5">Course 8</h4>
-              <span class="badge bg-secondary">GRADUATE</span> <span class="badge bg-success">4YRS</span>
-            </div>
-            <div class="col-sm-4 py-2">
-              <span class="badge bg-secondary">GOLANG</span>
-              <span class="badge bg-secondary">SENIOR</span>
-              <span class="badge bg-secondary">ENGINEER</span>
-              <span class="badge bg-secondary">BACKEND</span>
-            </div>
-            <div class="col-sm-3 text-lg-end">
-              <a href="#" class="btn btn-primary stretched-link">Apply</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="card mb-3">
-      <div class="card-body">
-        <div class="d-flex flex-column flex-lg-row">
-          <span class="avatar avatar-text rounded-3 me-4 bg-warning mb-2">BE</span>
-          <div class="row flex-fill">
-            <div class="col-sm-5">
-              <h4 class="h5">Course 9</h4>
-              <span class="badge bg-secondary">GRADUATE</span> <span class="badge bg-success">4YRS</span>
-            </div>
-            <div class="col-sm-4 py-2">
-              <span class="badge bg-secondary">GOLANG</span>
-              <span class="badge bg-secondary">SENIOR</span>
-              <span class="badge bg-secondary">ENGINEER</span>
-              <span class="badge bg-secondary">BACKEND</span>
-            </div>
-            <div class="col-sm-3 text-lg-end">
-              <a href="#" class="btn btn-primary stretched-link">Apply</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="card mb-3">
-      <div class="card-body">
-        <div class="d-flex flex-column flex-lg-row">
-          <span class="avatar avatar-text rounded-3 me-4 bg-warning mb-2">BE</span>
-          <div class="row flex-fill">
-            <div class="col-sm-5">
-              <h4 class="h5">Course 10</h4>
-              <span class="badge bg-secondary">GRADUATE</span> <span class="badge bg-success">4YRS</span>
-            </div>
-            <div class="col-sm-4 py-2">
-              <span class="badge bg-secondary">GOLANG</span>
-              <span class="badge bg-secondary">SENIOR</span>
-              <span class="badge bg-secondary">ENGINEER</span>
-              <span class="badge bg-secondary">BACKEND</span>
-            </div>
-            <div class="col-sm-3 text-lg-end">
-              <a href="#" class="btn btn-primary stretched-link">Apply</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-</div>
-
 <?php
     @include "include/footer.php";
 ?> 
