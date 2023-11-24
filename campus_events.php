@@ -20,8 +20,8 @@
 
 <section class="sect-gap">
     <div class="container">
-        <div class="popular-courses-section-align">
-            <div class="popular-courses-menu-content">
+        <div class="section-align">
+            <div class="section-align-content">
                 <div class="title">
                     <h4>Campus Life & Events</h4>
                     <p>This is the Information Technology age and at its core is Computer Science. The study of computer science is therefore critical if society is to take full advantage of the benefits Information Technology has to offer and make rapid economic advances. Computer science involves the study and development of applications that allow for our everyday use of computers, the software systems that support these applications, and the means and methods used to produce both applications and systems that behave reliably, correctly and ethically. At the heart of Computer Science lies the skill of computer programming and employers who hire Computer Scientists expect adept programmers with knowledge of current techniques and tools and the ability to apply sound engineering principles to the development, construction and maintenance of computer programs.

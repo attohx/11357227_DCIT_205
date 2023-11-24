@@ -64,15 +64,15 @@
     padding-left: 15px;
 }
 
-.popular-courses-section-align{
+.section-align{
     justify-content: center;
 }
 
-.popular-courses-menu-content{
+.section-align-content{
     padding-bottom: 40px;
 }
 
-.popular-courses-section-align .popular-courses-menu-content .title{
+.section-align .section-align-content .title{
     text-align: center;
 }
 
