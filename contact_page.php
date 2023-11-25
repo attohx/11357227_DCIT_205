@@ -6,7 +6,7 @@
 ?>
 </head>
 
-<body>
+<body class="p-3 mb-2 bg-light text-white>
 <?php
     @include "include/navbar.php";
 ?> 
