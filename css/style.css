@@ -95,7 +95,7 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: rgb(255, 250, 250);
+    background-color: whitesmoke;
     color: white;
 }
 .site-footer .footer-menu{
@@ -112,7 +112,7 @@
     left: 0;
     bottom: 0;
     width: auto;
-    background-color: rgb(255, 250, 250);
+    background-color: whitesmoke;
     color: white;
     color: #737373;
     border-radius: 6px;
