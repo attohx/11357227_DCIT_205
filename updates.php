@@ -16,17 +16,21 @@
     @include "include/navbar.php";
 ?> 
 
+
+
 <div class="main-container">
+
 
 <section class="sect-gap">
     <div class="container">
         <div class="section-align">
-            <div class="section-align-content">
+            <div class="update-section-align-content">
                 <div class="title">
                     <h4>Website Updates and Changelog</h4>
                     <ul>Implemented RSS Feed Section</ul>
                     <ul>Added Icons</ul>
-                    <ul>Added Footer Section</ul>
+                    <ul>Added About Page</ul>
+                    <ul>Added Main Menu Pic tabs</ul>
                 </div>
             </div>
         </div>
