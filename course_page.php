@@ -14,8 +14,7 @@
   
 <div class="container">
     <div class="text-center mb-5">
-      <h3>Available Courses</h3>
-      <p class="lead">List of Graduate and Undergraduate Courses</p>
+      <h3>Graduate & Undergraduate Courses</h3>
     </div>
     
     <div class="card mb-3">
