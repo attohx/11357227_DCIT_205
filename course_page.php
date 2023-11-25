@@ -6,7 +6,7 @@
 ?>
 </head>
 
-<body>
+<body class="p-3 mb-2 bg-light text-white>
 <?php
     @include "include/navbar.php";
 ?> 
@@ -14,7 +14,7 @@
   
 <div class="container">
     <div class="text-center mb-5">
-      <h3>Graduate & Undergraduate Courses</h3>
+      <h3 class="display-6">Graduate & Undergraduate Courses</h3>
     </div>
     
     <div class="card mb-3">

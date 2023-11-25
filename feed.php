@@ -11,18 +11,17 @@
     @include "include/headie.php";
 ?>
 
-<body>
+<body class="p-3 mb-2 bg-light text-white">
 <?php
     @include "include/navbar.php";
 ?> 
 
 <div class="main-container">
 
-<div class="container" >
-
-<div class='sk-ww-rss-feed' data-embed-id='226323'></div><script src='https://widgets.sociablekit.com/rss-feed/widget.js' async defer></script>
-
-
+<div class="container">
+    <div class="section-align">
+        <div class='sk-ww-rss-feed' data-embed-id='226323'></div><script src='https://widgets.sociablekit.com/rss-feed/widget.js' async defer></script>
+    </div>
 </div>
 
 
