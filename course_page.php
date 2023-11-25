@@ -20,7 +20,6 @@
     <div class="card mb-3">
       <div class="card-body">
         <div class="d-flex flex-column flex-lg-row">
-          <span class="avatar avatar-text rounded-3 me-4 mb-2">C.S</span>
           <div class="row flex-fill">
             <div class="col-sm-5">
               <h4 class="h5">COMPUTER SCIENCE</h4>
@@ -43,7 +42,6 @@
     <div class="card mb-3">
       <div class="card-body">
         <div class="d-flex flex-column flex-lg-row">
-          <span class="avatar avatar-text rounded-3 me-4 bg-warning mb-2">I.T</span>
           <div class="row flex-fill">
             <div class="col-sm-5">
               <h4 class="h5">INFORMATION TECHNOLOGY</h4>
@@ -66,7 +64,6 @@
     <div class="card mb-3">
       <div class="card-body">
         <div class="d-flex flex-column flex-lg-row">
-          <span class="avatar avatar-text rounded-3 me-4 bg-info mb-2">MP.CS</span>
           <div class="row flex-fill">
             <div class="col-sm-5">
               <h4 class="h5">MPHIL. COMPUTER SCIENCE</h4>
@@ -86,7 +83,6 @@
     <div class="card mb-3">
       <div class="card-body">
         <div class="d-flex flex-column flex-lg-row">
-          <span class="avatar avatar-text rounded-3 me-4 bg-warning mb-2">MS.CS</span>
           <div class="row flex-fill">
             <div class="col-sm-5">
               <h4 class="h5">MSc. COMPUTER SCIENCE</h4>

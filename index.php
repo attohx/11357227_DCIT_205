@@ -20,15 +20,13 @@
   <div class ="vidcontainer" >
     <div id="carouselVideo" class="carousel slide carousel-fade" data-mdb-ride="carousel"> 
       <div class="carousel-inner">
-        <div class="carousel-item active">
+        <div class="carousel-item drk active">
           <video class="img-fluid img-thumbnail" width="100%" height="314px" style="object-fit:cover" autoplay loop muted >
             <source src="media/vid/video-bg.mp4" type="video/mp4" />
           </video>
           <div class="carousel-caption d-none d-md-block">
-            <h1 class="bold">U.G.C.S.D HUB</h1>      
+            <h1 class="display-1">U.G.C.S.D HUB</h1>      
             <p class="lead" >Your One Stop For Everything Related to Computer Science</p>
-            <b>Login</b>
-            <b>Sign Up</b>
           </div>
         </div>
       </div>
@@ -39,10 +37,10 @@
   
 <div class="container-fluid bg-3 text-center">    
   <div class="row">
-    <div class="col-sm-3">
+    <div class="col-sm-3 bg-img hover-overlay">
       <p>Updates & Announcements</p>
       <a href="updates.php">
-        <img src="media/img/compsci.jpg" class="img-responsive" style="width:50%" alt="Image">
+        <img src="media/img/compsci.jpg" class="img-responsive hover-shadow" style="width:50%" alt="Image">
       </a>
     </div>
     <div class="col-sm-3"> 
