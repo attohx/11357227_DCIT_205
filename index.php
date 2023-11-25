@@ -14,25 +14,31 @@
 ?>
 
 <div class="main-container">
-
-<!-- Carousel wrapper -->
-<div class="container-fluid">
-  <div class ="vidcontainer" >
-    <div id="carouselVideo" class="carousel slide carousel-fade" data-mdb-ride="carousel"> 
-      <div class="carousel-inner">
-        <div class="carousel-item drk active">
-          <video class="img-fluid img-thumbnail" width="100%" height="314px" style="object-fit:cover" autoplay loop muted >
-            <source src="media/vid/video-bg.mp4" type="video/mp4" />
-          </video>
-          <div class="carousel-caption d-none d-md-block">
-            <h1 class="display-1">U.G.C.S.D HUB</h1>      
-            <p class="lead" >Your One Stop For Everything Related to Computer Science</p>
+  <section class="sect-gap-caros">
+    <div class="container">
+      <div class="section-align-caros">
+      <!-- Carousel wrapper -->
+      <div class="container-fluid">
+        <div class ="vidcontainer" >
+          <div id="carouselVideo" class="carousel slide carousel-fade" data-mdb-ride="carousel"> 
+            <div class="carousel-inner">
+              <div class="carousel-item drk active">
+                <video class="img-fluid img-thumbnail" width="100%" height="314px" style="object-fit:cover" autoplay loop muted >
+                  <source src="media/vid/video-bg.mp4" type="video/mp4" />
+                </video>
+                <div class="carousel-caption d-none d-md-block">
+                  <h1 class="display-1">U.G.C.S.D HUB</h1>      
+                  <p class="lead" >Your One Stop For Everything Related to Computer Science</p>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
+  
+  
 <!-- Carousel wrapper -->
   
 <div class="container-fluid bg-3 text-center">    
