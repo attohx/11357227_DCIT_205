@@ -21,16 +21,39 @@
 <section class="sect-gap">
     <div class="container">
         <div class="section-align">
-            <div class="section-align-content">
-                <div class="title">
-                    <h4>Downloads Available For Your Course</h4>
-                    <p>This is the Information Technology age and at its core is Computer Science. The study of computer science is therefore critical if society is to take full advantage of the benefits Information Technology has to offer and make rapid economic advances. Computer science involves the study and development of applications that allow for our everyday use of computers, the software systems that support these applications, and the means and methods used to produce both applications and systems that behave reliably, correctly and ethically. At the heart of Computer Science lies the skill of computer programming and employers who hire Computer Scientists expect adept programmers with knowledge of current techniques and tools and the ability to apply sound engineering principles to the development, construction and maintenance of computer programs.
+            
 
-The range of courses available in the department and the skills acquired by students enable them to find employment in many diverse fields of the economy and prepare our graduates for the computing industry, working in a project team (or research and development team), and to enable the graduate to bring specialist skills to that team. The course also provides the platform for further study or research through exposure to established and emerging technologies and methods, and to active fields of research in Computer Science.
 
-The Department offers two undergraduate degree programmes, Bachelor of Science in Computer Science Single-Major (3:2:1:1) and Major-Minor (3:2:2:1) as well as Bachelor of Science in Information Technology.</p>
-                </div>
-            </div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">File Name</th>
+                        <th scope="col">Times Downloaded</th>
+                        <th scope="col">URL</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <td>Introduction Computer Science</td>
+                        <td>29000</td>
+                        <td><button>offline</button></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td>Course Handbook</td>
+                        <td>20000</td>
+                        <td><button>offline</button></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td>DCIT PassCo Bundle</td>
+                        <td>40000</td>
+                        <td><button>offline</button></td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
 
     </div>
