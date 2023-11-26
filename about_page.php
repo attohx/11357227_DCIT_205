@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DCIT About Page</title>
+    <title>About</title>
     <!--css file-->
     <link rel="stylesheet" href="css/style.css">
 </head>
@@ -11,7 +11,7 @@
     @include "include/headie.php";
 ?>
 
-<body>
+<body class="p-3 mb-2 bg-light text-white>
 <?php
     @include "include/navbar.php";
 ?> 
