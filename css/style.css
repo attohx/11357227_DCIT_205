@@ -79,7 +79,7 @@
     padding-top: 10px;
     padding-bottom: 10px;
 }
-sect-gap-int{
+.sect-gap-int{
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -92,6 +92,7 @@ sect-gap-int{
     color: #737373;
     border-radius: 6px;
     box-shadow: 0 1px 5px rgba(243, 242, 242, 0.5);
+    width: 100%;
 }
 
 
@@ -115,9 +116,7 @@ body{
     background:#eee;
 }
 
-.carousel-caption {
-    z-index: 2;
-}
+
 .row{
     padding-top: 10px;
 }
@@ -257,7 +256,6 @@ input, textarea {
 }
   
 input:focus, textarea:focus {
-    /* Additional highlight for focused elements */
     border-color: #000;
 }
   
@@ -270,7 +268,6 @@ textarea {
 
 .card-about{
     margin: auto;
-    /* background-color: white; */
     vertical-align: middle;
     padding-left: 15%;
     width: 80%;
@@ -283,4 +280,9 @@ textarea {
     display: flex; /* Use flexbox layout */
     justify-content: center; /* Center the child element horizontally */
     align-items: center; /* Center the child element vertically */
+  }
+
+.card-list{
+    list-style: none;
+
   }
