@@ -200,3 +200,15 @@ body{
   .row{
     padding-top: 10px;
   }
+
+.navmenu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+.nav-item{
+    display: inline;
+    float: left;
+    align-items: center;
+}
