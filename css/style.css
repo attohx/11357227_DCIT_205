@@ -41,7 +41,7 @@
 
 
 .sect-gap{
-    padding-top: 50px;
+    padding-top: 20px;
     padding-right: 5px;
     padding-left: 5px;
     width: auto;
@@ -137,36 +137,8 @@ body{
     color: white
 
 }
-.grid-container {
-    display: grid;
-    grid-template-columns: auto auto auto auto;
-    background-color: white;
-    width: auto;
-    padding-left: 10px;
-    padding-right: 10px;
-    border: 2px solid rgb(233 171 88);
-    border-radius: 5px;
-    padding: 1em;
-    gap: 10px
-}
-.grid-item {
-    background-color: rgba(255, 255, 255, 0.8);
-    border: 1px solid rgba(0, 0, 0, 0.8);
-    padding: 20px;
-    font-size: 30px;
-    text-align: center;
-    background-image: url("/media/img/compsci.jpg"); /* Set a background image for each grid item */
-    background-size: cover; /* Resize the image to cover the entire item */
-    border-collapse: collapse;
-    border: 0;
-    
-}
-.grid-item:hover {
-    /* Add your desired styles for the grid items when hovered here */
-    /* For example, you can change the background color and the text color */
-    background-color: lightgrey;
-    color: white;
-  }
+
+
 
 a {
     text-decoration: none;
@@ -277,12 +249,59 @@ textarea {
 }
 
 .card-video {
-    display: flex; /* Use flexbox layout */
-    justify-content: center; /* Center the child element horizontally */
-    align-items: center; /* Center the child element vertically */
-  }
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    border-radius: 10px;
+    padding-left: 15%; 
+    padding-right:15%;
+    padding-top: 30px;
+    padding-bottom: 30px;   
+    
+    overflow: hidden;
+}
 
 .card-list{
     list-style: none;
 
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+  
+  .button-homepg {
+    flex: 1;
+    margin: 5px;
+  }
+
+  .button-homepg {
+    align-items: center;
+    appearance: none;
+    background-color: #FCFCFD;
+    border-radius: 4px;
+    border-width: 0;
+    box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px,rgba(45, 35, 66, 0.3) 0 7px 13px -3px,#D6D6E7 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #36395A;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 18px;
   }
