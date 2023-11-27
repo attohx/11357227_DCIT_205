@@ -4,15 +4,87 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Contact</title>
-<?php
-    @include "include/headie.php";
-?>
+
+<!-- styles CSS -->
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<link href="fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="fontawesome/css/brands.css" rel="stylesheet">
+<link href="fontawesome/css/solid.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--css file-->
+<link rel="stylesheet" href="css/style.css">
 </head>
 
-<body class="p-3 mb-2 bg-light text-white>
-<?php
-    @include "include/navbar.php";
-?> 
+<body class="p-3 mb-2 bg-light text-white">
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <!-- Container wrapper -->
+    <div class="container">
+      <!-- Navbar brand -->
+      <a class="navbar-brand me-2 ml-auto" href="index.php">
+        <img
+          src="media/img/comScience_logo.png"
+          height="30"
+          alt=""
+          loading="lazy"
+          style="margin: top -1px;"
+        />
+      </a>
+  
+      <!-- Toggle button -->
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarButtonsExample"
+        aria-controls="navbarButtonsExample"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <i class="fas fa-bars"></i>
+      </button>
+  
+      <!-- Collapsible wrapper -->
+      <div class="collapse navbar-collapse" id="navbarButtonsExample">
+        <!-- Left links -->
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" href="index.php"><i class="fa-solid fa-house"></i> Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="course_page.php"><i class="fa-solid fa-book"></i> Courses</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="about_page.php"><i class="fa-solid fa-question"></i> About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact_page.php"><i class="fa-solid fa-envelope"></i> Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="feed.php"><i class="fa-solid fa-rss"></i> Feed</a>
+          </li>
+          
+        </ul>
+        <!-- Left links -->
+  
+        <div class="d-flex justify-content-end">
+        <a
+            class="btn btn-light px-3"
+            href="https://sakai.ug.edu.gh/portal"
+            role="button"
+            ><i class="fa-solid fa-globe"></i></a>
+          <a
+            class="btn btn-light px-3"
+            href="https://github.com/attohx"
+            role="button"
+            ><i class="fa-brands fa-github-alt"></i></a>
+        </div>
+      </div>
+      <!-- Collapsible wrapper -->
+    </div>
+    <!-- Container wrapper -->
+  </nav>
+  <!-- Navbar --> 
 <div class="main-container">
 
 <!-- Contact 1 - Bootstrap Brain Component -->
@@ -80,9 +152,16 @@
 
 </div>
 
-<?php
-    @include "include/footer.php";
-?> 
+<div class="main-containerfoot" >
+  <footer class="bg-light text-center text-lg-start">
+    <!-- Copyright -->
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+      © 2023 Copyright:
+      <a class="text-dark" href="index.php">D.C.I.T</a>
+    </div>
+    <!-- Copyright -->
+  </footer>
+</div>
 </body>
 
 </html>
