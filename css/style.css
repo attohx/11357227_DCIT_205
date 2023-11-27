@@ -169,6 +169,31 @@ th, td {
     justify-content: space-between;
     padding: 10px;
 }
+.card-course{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 80%; /* Set a fixed width for the card element */
+    padding-left: 20px;
+    padding-right: 20px;
+    align-items: center;
+}
+.card-course:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
+}
+.card-course .container button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+  .card-course .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
 
 .accordion {
     /* Add some padding and a border around the accordion button */
