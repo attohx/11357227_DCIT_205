@@ -23,20 +23,20 @@ Nathan Attoh - 11357227
 ## Screenshots
 Below are some Screenshots of the website
 
-## Header
-![alt text](https://imgur.com/t48t2b1)
+* Header
+![alt text](./media/rdme/header.png)
 
-## Footer
-![alt text](https://imgur.com/5q8vrro)
+* Footer
+![alt text](./media/rdme/footer.png)
 
-## Downloads Page
-![alt text](https://imgur.com/KvidbhD)
+* Downloads Page
+![alt text](./media/rdme/departmentpage.png)
 
-## HomePage
-![alt text](https://imgur.com/xNbd7sb)
+* HomePage
+![alt text](./media/rdme/homepage.png)
 
-## NewsFeed
-![alt text](https://imgur.com/hpJI9Vy)
+* NewsFeed
+![alt text](./media/rdme/newsfeedpage.png)
 
 
 
