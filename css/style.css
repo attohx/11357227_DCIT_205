@@ -215,5 +215,19 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-  }
+}
+
+table {
+    table-layout: fixed; /* Use fixed table layout */
+    width: 100%; /* Set the table width to 100% of the parent element */
+}
+
+  
+th, td {
+    width: 25%; /* Set the table cells width to 25% of the table width */
+    text-align: center;
+}
+
+  
+
   
