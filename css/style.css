@@ -60,7 +60,7 @@
     align-self: center;
 }
 
-.events-area .events-area-container .events-menu-content .title{
+.events-area .events-area-container .events-menu-content {
     padding-left: 15px;
 }
 
@@ -68,13 +68,6 @@
     justify-content: center;
 }
 
-.section-align-content{
-    padding-bottom: 40px;
-}
-
-.section-align .section-align-content .title{
-    text-align: center;
-}
 .sect-gap-caros{
     padding-top: 10px;
     padding-bottom: 10px;
@@ -168,6 +161,8 @@ th, td {
     width: 80%; /* Set a fixed width for the card element */
     padding-left: 20px;
     padding-right: 20px;
+    align-items: center;
+
 }
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
@@ -304,4 +299,28 @@ textarea {
     white-space: nowrap;
     will-change: box-shadow,transform;
     font-size: 18px;
+}
+
+.title{
+    text-align: center;
+}
+
+.parag-card {
+    /* Add shadows to create the "card" effect */
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 80%; /* Set a fixed width for the card element */
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: 800px;
+    text-align: center;
+
+}
+.section-align-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
   }
