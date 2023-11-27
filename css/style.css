@@ -305,7 +305,7 @@ textarea {
     text-align: center;
 }
 
-.parag-card {
+.parag-card.card-int{
     /* Add shadows to create the "card" effect */
     display: flex;
     justify-content: center;
