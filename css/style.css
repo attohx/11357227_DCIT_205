@@ -404,8 +404,19 @@ textarea {
     margin-left: 20px;
   }
   
-
-  .titlehead{
-    align-items: center;
-    justify-content: center;
+  /* for the hod pages */
+  .card-image{
+    position: relative;
+    height: 150px;
+    width: 150px ;
+    border-radius:  50px;
   }
+
+  .card-image .card-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+
+
+
