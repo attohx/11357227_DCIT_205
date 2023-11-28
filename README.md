@@ -8,7 +8,7 @@
 * Simple UI and more straight forward. 
 * I removed a lot of excessive element. 
 
-* Checkout the "failed" Bootstrap Version [HERE] (https://github.com/attohx/UGCSHUB)
+* Checkout the "failed" Bootstrap Version [HERE](https://github.com/attohx/UGCSHUB)
 ## Setup
 
 Follow these steps to clone repository:
