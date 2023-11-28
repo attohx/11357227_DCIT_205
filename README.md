@@ -6,7 +6,7 @@
 ## Introduction
 * An Alternative Version of the UGCSD Website. 
 * Simple UI and more straight forward. 
-* I removed a lot of excessive element. 
+* I removed a lot of excessive elements. 
 
 * Checkout the "failed" Bootstrap Version [HERE](https://github.com/attohx/UGCSHUB)
 ## Setup
@@ -59,6 +59,7 @@ Below are some Screenshots of the website
 - Better directory management for web 
 - HTML Secrets
 - Javascript Tips
+- Better Time Management!!!!
 
 
 ## The Future
