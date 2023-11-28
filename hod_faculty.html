@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Faculty</title>
-
 <!-- styles CSS -->
 <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
 <link href="fontawesome/css/fontawesome.css" rel="stylesheet">
@@ -13,6 +12,28 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--css file-->
 <link rel="stylesheet" href="css/style.css">
+<!-- custom styles -->
+  <style>
+    table {
+      width: 80%;
+      margin: auto;
+      border: none;
+    }
+
+    th, td {
+      border: 1px solid black;
+      padding: 10px;
+      text-align: left;
+      border: none;
+
+
+    }
+
+    th {
+      font-weight: bold;
+    }
+
+  </style>
 </head>
 
 <body class="">
@@ -23,7 +44,7 @@
             <div class="menu-align">
               <div class="logomen">
                 <a href="index.html">
-                  <img src="./media/img/comScience_logo.png" width="150">
+                  <img src="./media/img/comScience_logo.png" width="150" >
                 </a>
               </div>
               <nav id="nav-menucontainer">
@@ -44,29 +65,52 @@
 
         <div class="container">
             <div class="section-align">
-                <h4>Head Of Department & Faculty</h4>
+                <h2>Head Of Department & Faculty</h2>
                 <div class="section-align-content">
-                    <div class="slide-container">
-                        <div class="slide-content">
-                            <div class="slide-wrapper">
-                                <div class="card2">
-                                    <div class="image-content">
-                                        <span class="overlay"></span>
-
-                                        <div class="card-image">
-                                            <img src="./media/img/compsci.jpg" alt="" class="card-img">
-                                        
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
+                  <table>
+                    <!-- <tr>
+                      <th>Profile</th>
+                      <th>Name</th>
+                      <th>Department</th>
+                      <th>Email</th>
+                      <th>Phone</th>
+                    </tr> -->
+                    <tr>
+                      <td><img src="./media/img/compsci.jpg" alt="John Smith"class="hodpic"> </td>
+                      <td>John Smith</td>
+                      <td>Computer Science</td>
+                      <td>john.smith@example.com</td>
+                      <td><button class="hodemail">Email</button></td>
+                    </tr>
+                    <tr>
+                      <td><img src="./media/img/compsci.jpg" alt="Jane Doe" class="hodpic"></td>
+                      <td>Jane Doe</td>
+                      <td>Mathematics</td>
+                      <td>jane.doe@example.com</td>
+                      <td><button class="hodemail">Email</button></td>
+                    </tr>
+                    <tr>
+                      <td><img src="./media/img/compsci.jpg" alt="Bob Lee" class="hodpic"></td>
+                      <td>Bob Lee</td>
+                      <td>Physics</td>
+                      <td>bob.lee@example.com</td>
+                      <td><button class="hodemail">Email</button></td>
+                    </tr>
+                    <tr>
+                      <td><img src="./media/img/compsci.jpg" alt="Alice Cooper" class="hodpic"></td>
+                      <td>Alice Cooper</td>
+                      <td>Chemistry</td>
+                      <td>alice.cooper@example.com</td>
+                      <td><button class="hodemail">Email</button></td>
+                    </tr>
+                    <tr>
+                      <td><img src="./media/img/compsci.jpg" alt="David Jones" class="hodpic"></td>
+                      <td>David Jones</td>
+                      <td>Biology</td>
+                      <td>david.jones@example.com</td>
+                      <td><button class="hodemail">Email</button></td>
+                    </tr>
+                  </table>
                 </div>
             </div>
 
