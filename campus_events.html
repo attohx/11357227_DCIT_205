@@ -12,7 +12,6 @@
 <link href="fontawesome/css/fontawesome.css" rel="stylesheet">
 <link href="fontawesome/css/brands.css" rel="stylesheet">
 <link href="fontawesome/css/solid.css" rel="stylesheet">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--css file-->
 <link rel="stylesheet" href="css/style.css">
 <link rel="apple-touch-icon" sizes="180x180" href="./media/ico/apple-touch-icon.png">
@@ -20,57 +19,9 @@
 <link rel="icon" type="image/png" sizes="16x16" href="./media/ico/favicon-16x16.png">
 <link rel="manifest" href="./media/ico/site.webmanifest">
 <!-- script -->
-<script src="./scripts/carousel.js"></script>
+<script src="scripts/carousel.js" defer></script>
 
 
-<!-- custom css for this page only! -->
-<style>
-  .slider {
-    width: 500px;
-    height: 300px;
-    margin: auto;
-    overflow: hidden;
-  }
-
-  .image-container {
-    width: 2500px;
-    height: 300px;
-    position: relative;
-    transition: left 1s;
-  }
-
-  .slide {
-    width: 500px;
-    height: 300px;
-    float: left;
-  }
-
-  .buttons {
-    width: 500px;
-    margin: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .buttons button {
-    height: 20px;
-    width: 20px;
-    border-radius: 50%;
-    border: none;
-    margin: 10px;
-    background-color: lightgray;
-    cursor: pointer;
-  }
-
-  .buttons button:hover {
-    background-color: gray;
-  }
-
-  .buttons button.active {
-    background-color: black;
-  }
-</style>
 </head>
 
 <body class="">
@@ -104,18 +55,29 @@
               <h2>Campus Life </h2>
 
                 <div class="section-align-content">
-                        <div class="slider">
-                          <div class="image-container">
-                            <img style='border:4px solid white' src="./media/img/img1.jfif" alt="Image 1" class="slide">
-                            <img style='border:4px solid white' src="./media/img/img2.jfif" alt="Image 2" class="slide">
-                            <img style='border:4px solid white' src="./media/img/img3.jfif" alt="Image 3" class="slide">
-                          </div>
-                        </div>
-                        <div class="buttons">
-                          <button id="btn1" class="active" onclick="showSlide(1)"></button>
-                          <button id="btn2" onclick="showSlide(2)"></button>
-                          <button id="btn3" onclick="showSlide(3)"></button>
-                        </div>
+
+                  <section aria-label="Campus Life">
+                    <div class="carousel" data-carousel>
+                      <button class="carousel-button prev" data-carousel-button="prev" >&#8656</button>
+                      <button class="carousel-button next" data-carousel-button="next" >&#8658</button>
+
+                    <ul data-slides>
+                      <li class="slide" data-active>
+                        <img src="./media/img/img1.jfif" alt="Campus1">
+                      </li>
+                      <li class="slide">
+                        <img src="./media/img/img2.jfif" alt="Campus2">
+                      </li>
+                      <li class="slide">
+                        <img src="./media/img/img3.jfif" alt="Campus3">
+                      </li>
+                    </ul>
+
+                  </div>
+
+
+                  </section>
+                        
                 </div>
                 <p class="parag-card">
                   Campus life at the University of Ghana is a rich and rewarding experience that offers students a variety of opportunities to learn, grow, and have fun. Whether you are interested in academics, sports, culture, or social activities, you will find something that suits your passion and personality at the University of Ghana.
