@@ -4,11 +4,11 @@
 
 
 ## Introduction
-An Alternative Version of the UGCSD Website. 
-Simple UI and more straight forward. 
-I removed a lot of excessive element. 
+* An Alternative Version of the UGCSD Website. 
+* Simple UI and more straight forward. 
+* I removed a lot of excessive element. 
 
-Checkout the Bootstrap Version HERE >
+* Checkout the "failed" Bootstrap Version HERE >
 ## Setup
 
 Follow these steps to clone repository:
