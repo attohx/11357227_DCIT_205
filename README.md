@@ -57,11 +57,15 @@ Below are some Screenshots of the website
 - Some Useful functions for Javascript
 - Understood the layout of HTML pages better
 - Better directory management for web 
+- HTML Secrets
+- Javascript Tips
+
 
 ## The Future
 
 * Implement Mobile Nav
 * Make pages more dynamic
+* More Javascript!
 
 
 
