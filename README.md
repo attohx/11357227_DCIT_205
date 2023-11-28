@@ -22,6 +22,8 @@ Nathan Attoh - 11357227
 
 ## Screenshots
 Below are some Screenshots of the website
+* HomePage
+![alt text](./media/rdme/homepage.png)
 
 * Header
 ![alt text](./media/rdme/header.png)
@@ -30,13 +32,35 @@ Below are some Screenshots of the website
 ![alt text](./media/rdme/footer.png)
 
 * Downloads Page
-![alt text](./media/rdme/departmentpage.png)
+![alt text](./media/rdme/resources.png)
 
-* HomePage
-![alt text](./media/rdme/homepage.png)
+* H.O.D
+![alt text](./media/rdme/hodpage.png)
 
 * NewsFeed
-![alt text](./media/rdme/newsfeedpage.png)
+![alt text](./media/rdme/feed.png)
+
+* International Studies
+![alt text](./media/rdme/intstudies.png)
+
+* Campus
+![alt text](./media/rdme/campuslife.png)
+
+* Admission
+![alt text](./media/rdme/admission.png)
+
+## What I Learnt
+- Some Useful functions for Javascript
+- Understood the layout of HTML pages better
+- Better directory management for web files
+
+
+
+
+
+
+
+
 
 
 
