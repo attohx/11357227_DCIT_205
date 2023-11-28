@@ -56,7 +56,15 @@ Below are some Screenshots of the website
 ## What I Learnt
 - Some Useful functions for Javascript
 - Understood the layout of HTML pages better
-- Better directory management for web files
+- Better directory management for web 
+
+## The Future
+
+* Implement Mobile Nav
+* Make pages more dynamic
+
+
+
 
 
 
